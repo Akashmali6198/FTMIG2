@@ -127,7 +127,7 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
             <div class="carousel-inner">
               <div class="carousel-item active" style="background-image: url('https://wallpapercave.com/dwp2x/wp7226772.png')">
                 <div class="container slidetxt">
-                  <h1>Companies</h1>
+                  <h1>Companies2</h1>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget nisl in nibh eleifend lobortis. Duis nec felis leo. Mauris finibus metus vel lorem congue, eget aliquam massa ullamcorper.</p>
                 </div>
               </div>
