@@ -76,7 +76,7 @@
               <li><a href="companie.php">Companies</a></li>
               <li><a href="speakers.php">Speakers</a></li>
               <li><a href="#">Chat</a></li>
-              <li><a href="#">Conferences</a></li>
+              <li><a href="Conferences.php">Conferences</a></li>
             </ul>
             <div class="nav-right">
               <ul class="account-menu ml-3">
