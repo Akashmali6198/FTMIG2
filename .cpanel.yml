@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ldjtmkq6rhqf/public_html/
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
+    - export DEPLOYPATH=public_html/ftmig
+    - /bin/cp * $DEPLOYPATH
+    
