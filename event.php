@@ -26,7 +26,7 @@
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Upcoming Events now</h1>
+    <h1>Upcoming Events</h1>
   </div>
 
 </section>
