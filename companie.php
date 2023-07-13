@@ -133,7 +133,7 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
               </div>
               <div class="carousel-item" style="background-image: url('https://www.jobstreet.com.ph/career-resources/wp-content/uploads/sites/3/2022/08/Best-Companies-in-the-Philippines-This-2022.jpg')">
                 <div class="container  slidetxt">
-                  <h1>Companies222</h1>
+                  <h1>Companies</h1>
                   <p>Aliquam lacinia mauris purus, a pharetra nisi faucibus vel. Quisque rhoncus convallis nisl, id rutrum tellus dignissim sed. Sed quis mollis lectus.</p>
                 </div>
               </div>
