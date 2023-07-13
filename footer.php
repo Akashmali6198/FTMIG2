@@ -27,7 +27,7 @@
             <li><a href="#" style="color: aliceblue;" >Speakers</a> </li>  
             <li><a href="#" style="color: aliceblue;" >Conference</a></li>  
             <li><a href="#" style="color: aliceblue;">Chat</a></li>  
-            <li><a href="#" style="color: aliceblue;">Strategy</a></li>  
+            <li><a href="Strategy.php" style="color: aliceblue;">Strategy</a></li>  
             <li><a href="#" style="color: aliceblue;">Summits</a></li>  
           </ul>  
         </div>  
