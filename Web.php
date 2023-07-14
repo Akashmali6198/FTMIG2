@@ -289,7 +289,7 @@ p.ix-multi-subline {
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Strategy</h1>
+    <h1>Web</h1>
   </div>
 </section>
  <!-- Stretegy  start -->
@@ -317,7 +317,7 @@ p.ix-multi-subline {
     <div class="row">
         <div class="col-sm-12">
         <h1 class="ie-ix-title" style="font-size:55px;">
-         Investor Experience (IX) Platform - Strategy
+        Investor Experience (IX) Platform
         </h1>
         <hr style="border:solid 1px gray;">
        </div>
@@ -327,10 +327,10 @@ p.ix-multi-subline {
     <div class="row">
         <div class="col-sm-12"> 
 
-               <h2>Project management software suite</h2>
+               <h2>Web</h2>
 
                     <p class="ix-multi-subline">
-                    Where strategy invites clarity
+                    Where web invites wonder
                    </p> 
        </div>
 
@@ -342,7 +342,7 @@ p.ix-multi-subline {
 
 
         <div class="col-12 col-lg-8"> 
-           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen"></noscript>
+           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/web/screen.png" class="ix-multi-screen entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen"></noscript>
         </div><!--col-->
 
 
@@ -352,31 +352,28 @@ p.ix-multi-subline {
 
                   <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">Goals that Matter</h5>
+                         <h5 class="ix-multi-title-small">Investor Websites</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                             Implement proven programs built around investor acquisition, activation, retention, referral, and investment (AARRI).
-                         </p>
+                         Made specifically for public companies to communicate their value proposition to prospective investors & stakeholders.</p>
 
                     </div><!--col--> 
 
                      <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">See Who's Doing What &amp; When</h5>
+                         <h5 class="ix-multi-title-small">Beautiful & Responsive Designs</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                         See how all the pieces fit, at a glance, and what's coming next. 
-                         </p>
+                         On mobile, tablet, or desktop— it just works— and is easy to edit.</p>
 
                     </div><!--col--> 
 
                      <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">Achieve Organizational Alignment</h5>
+                         <h5 class="ix-multi-title-small">Made for Investor Relations Professionals</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                             Get internal &amp; external stakeholders on the same page around strategy, messaging, brand identity, and process. 
-                         </p>
+                         Built to be compliant with securities & privacy regulations.</p>
 
                     </div><!--col--> 
 
@@ -400,8 +397,7 @@ p.ix-multi-subline {
 
                        <p class="ix-multi-quote-content">
                        <span><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/quote.png" class="ix-multi-quote-icon entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/quote.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/quote.png" class="ix-multi-quote-icon"></noscript></span>
-                      FTMIG does a great job arranging retail focused webinars as well as working with the companies to manage and optimize a digital media strategy to drive increased awareness.
-                        </p>
+                       FTMIG does a great job arranging retail focused webinars, and working with the companies to manage & optimize a digital media strategy to drive increased awareness.</p>
         
                         <div class="row inner-author-row">
 

@@ -26,9 +26,9 @@
             <li><a href="#" style="color: aliceblue;" >Companies</a> </li>  
             <li><a href="#" style="color: aliceblue;" >Speakers</a> </li>  
             <li><a href="#" style="color: aliceblue;" >Conference</a></li>  
-            <li><a href="#" style="color: aliceblue;">Chat</a></li>  
+            <li><a href="Chat.php" style="color: aliceblue;">Chat</a></li>  
             <li><a href="Strategy.php" style="color: aliceblue;">Strategy</a></li>  
-            <li><a href="#" style="color: aliceblue;">Summits</a></li>  
+            <li><a href="Summits.php" style="color: aliceblue;">Summits</a></li>  
           </ul>  
         </div>  
       </div>  
@@ -37,11 +37,11 @@
           <h4>INVESTOR EXPERIENCE PLATFORM</h4>
           <br>  
           <ul class="list-unstyled">  
-            <li> <a href="#" style="color: aliceblue;">Ads</a> </li>  
-            <li> <a href="#" style="color: aliceblue;">Web</a> </li>  
-            <li> <a href="#" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="#" style="color: aliceblue;" >IXO</a> </li>  
-            <li> <a href="#" style="color: aliceblue;">Analytics</a> </li>  
+            <li> <a href="Ads.php" style="color: aliceblue;">Ads</a> </li>  
+            <li> <a href="Web.php" style="color: aliceblue;">Web</a> </li>  
+            <li> <a href="Creative.php" style="color: aliceblue;" >Creative</a> </li>  
+            <li> <a href="IXO.php" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="Analytics.php" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  
       </div>  
