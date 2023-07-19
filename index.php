@@ -32,7 +32,7 @@
     </section>
     <!-- about section end -->
     <!-- choose us section start -->
-    <section class="pt-120 pb-120 overlay--radial bg_img" data-background="assets/images/bg/bg-3.jpg">
+    <section class="pt-120 pb-120 overlay--radial bg_img" data-background="assets/images/mountains.png">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center">

@@ -1,5 +1,72 @@
 
     <!-- footer section start -->
+    <style>
+    .f-usm-menu {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+
+    .f-usm-menu li {
+      margin-right: 10px;
+    }
+
+    .f-usm-menu li:last-child {
+      margin-right: 0;
+    }
+
+    .f-usm-menu li a {
+      text-decoration: none;
+      color:white;
+      padding: 5px;
+      font-size:20px;
+    }
+
+    
+
+    .f-usm-menu li img {
+    max-width:30%;
+      object-fit: contain;
+      float:right;
+      margin-left: -70px;
+    }
+    .ftback
+    {
+      background-color:black;
+    }
+    .foot-logo{
+      max-width:70%;
+    }
+  </style>
+<Section>
+  <div class="container ftback text-center">
+    <div class="row">
+      <div class="col-md-12">
+      <hr style="border:solid gray 1px">
+  <ul id="scrolling-wrapper" class="f-usm-menu" data-dragging="false">
+    <li>
+      <a href="https://6ix.com">
+      
+        <img src="assets/images/logo.png" class="foot-logo" alt="6ix">
+      </a>
+    </li>
+    <li><a href="">Signup/Login</a></li>
+    <li><a href="">About</a></li>
+    <li><a href="">Invest</a></li>
+    <li><a href="">Raise</a></li>
+    <li><a href="">Host</a></li>
+    <li><a href="">Demo</a></li>
+    <li><a href="">Pricing</a></li>
+    <li><a href="">Security</a></li>
+  </ul>
+  <hr style="border:solid gray 1px">
+  </div>
+  </div>
+  </div>
+  </Section>
+    <!-- footer above -->
     <div class="footer__bottom">
     <div class="container" style="padding:30px">
       <div class="row">
