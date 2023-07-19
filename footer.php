@@ -106,9 +106,9 @@
           <ul class="list-unstyled">  
             <li> <a href="Ads.php" style="color: aliceblue;">Ads</a> </li>  
             <li> <a href="Web.php" style="color: aliceblue;">Web</a> </li>  
-            <li> <a href="Creative.php" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="IXO.php" style="color: aliceblue;" >IXO</a> </li>  
-            <li> <a href="Analytics.php" style="color: aliceblue;">Analytics</a> </li>  
+            <li> <a href="" style="color: aliceblue;" >Creative</a> </li>  
+            <li> <a href="" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  
       </div>  
