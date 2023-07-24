@@ -31,140 +31,15 @@
       </div>
     </section>
     <!-- about section end -->
-    <!-- choose us section start -->
-    <section class="pt-120 pb-120 overlay--radial bg_img" data-background="assets/images/mountains.png">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <div class="section-header">
-              <h2 class="section-title"><span class="font-weight-normal">Why Choose</span> <b class="base--color">Follow The Money Investor Group</b></h2>
-              <p>Our goal is to provide our investors with a reliable source of high income, while minimizing any possible risks and offering a high-quality service.</p>
-            </div>
-          </div>
-        </div><!-- row end -->
-        <div class="row justify-content-center mb-none-30">
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="lar la-copy"></i>
-                </div>
-                <h4 class="choose-card__title base--color">Legal Company</h4>
-              </div>
-              <p>Our company conducts absolutely legal activities in the legal field. We are certified to operate investment business, we are legal and safe.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-lock"></i>
-                </div>
-                <h4 class="choose-card__title base--color">High reliability</h4>
-              </div>
-              <p>We are trusted by a huge number of people. We are working hard constantly to improve the level of our security system and minimize possible risks.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-user-lock"></i>
-                </div>
-                <h4 class="choose-card__title base--color">Anonymity</h4>
-              </div>
-              <p>Anonymity and using cryptocurrency as a payment instrument. In the era of electronic money – this is one of the most convenient ways of cooperation.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-shipping-fast"></i>
-                </div>
-                <h4 class="choose-card__title base--color">Quick Withdrawal</h4>
-              </div>
-              <p>Our all retreats are treated spontaneously once requested. There are high maximum limits. The minimum withdrawal amount is only $10.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-users"></i>
-                </div>
-                <h4 class="choose-card__title base--color">Referral Program</h4>
-              </div>
-              <p>We are offering a certain level of referral income through our referral program. you can increase your income by simply refer a few people.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-headset"></i>
-                </div>
-                <h4 class="choose-card__title base--color">24/7 Support</h4>
-              </div>
-              <p>We provide 24/7 customer support through e-mail and telegram. Our support representatives are periodically available to elucidate any difficulty..</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-server"></i>
-                </div>
-                <h4 class="choose-card__title base--color">Dedicated Server</h4>
-              </div>
-              <p>We are using a dedicated server for the website which allows us exclusive use of the resources of the entire server.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="fab fa-expeditedssl"></i>
-                </div>
-                <h4 class="choose-card__title base--color">SSL Secured</h4>
-              </div>
-              <p>Comodo Essential-SSL Security encryption confirms that the presented content is genuine and legitimate.</p>
-            </div><!-- choose-card end -->
-          </div>
-          <div class="col-xl-4 col-md-6 mb-30">
-            <div class="choose-card border-radius--5">
-              <div class="choose-card__header mb-3">
-                <div class="choose-card__icon">
-                  <i class="las la-shield-alt"></i>
-                </div>
-                <h4 class="choose-card__title base--color">DDOS Protection</h4>
-              </div>
-              <p>We are using one of the most experienced, professional, and trusted DDoS Protection and mitigation provider.</p>
-            </div><!-- choose-card end -->
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- choose us section end  -->
+    
 
     <!-- profit calculator section start -->
     <section class="pt-120 pb-120">
-      <div class="container">
-         <h2 class="section-title" style="text-align: left;">Follow The Money Investor Group is where capital & ideas meet</h2><br><h4><b class="base--color">Follow The Money Investor Group is a financial technology company on a mission to unlock social mobility on a global scale by empowering anyone from anywhere to invest in anything.</b></h4>
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <div class="section-header">
-              <br>
-              <p>Over the past 12-months, 6ix has networked more than 30 million investors, 299 companies, 425 speakers and 2 heads of state across all of our software products.</p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="section-header">
-              <br>
-              <p>Our platform – 6ix.com – combines the power of community and technology by making it easy for companies, analysts, and investors to network.</p>
-            </div>
-          </div>
-        </div>
+      <div class="container text-center">
+         <h2 class="section-title">A COMMUNITY BUILT BY INVESTORS,
+FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group is a financial technology company on a mission to unlock 
+ social mobility on  <br>a global scale by empowering anyone from anywhere to invest in anything.</b></h4>
+
       </div>
     </section>
     <!-- profit calculator section end -->
@@ -218,6 +93,14 @@
       </div>
     </section>
     <!-- how work section end  -->
+
+<!-- how it works section start -->
+
+
+<!--how it works section end  -->
+
+
+
     <!-- faq section start -->
     <section class="pt-120 pb-120">
       <div class="container">
