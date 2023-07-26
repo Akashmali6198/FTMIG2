@@ -853,7 +853,6 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
     font-size: 18px;
     line-height: 24px;
     color: #E9E9E9;
-    text-align: center;
 }.home-network p {
     font-family: 'Roboto';
     font-style: normal;
