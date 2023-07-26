@@ -55,7 +55,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
     <!-- profit calculator section end -->
 
     <!-- how work section start -->
-    <section class="pt-120 pb-120 bg_img" data-background="assets/images/bg/bg-5.jpg">
+    <!-- <section class="pt-120 pb-120 bg_img" data-background="assets/images/bg/bg-5.jpg">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center">
@@ -64,7 +64,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
               <p>Get involved in our tremendous platform and Invest. We will utilize your money and give you profit in your wallet automatically.</p>
             </div>
           </div>
-        </div><!-- row end -->
+        </div>
         <div class="row justify-content-center mb-none-30">
           <div class="col-lg-4 col-md-6 work-item mb-30">
             <div class="work-card text-center">
@@ -75,7 +75,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
               <div class="work-card__content">
                 <h4 class="base--color mb-3">Create Account</h4>
               </div>
-            </div><!-- work-card end -->
+            </div>
           </div>
           <div class="col-lg-4 col-md-6 work-item mb-30">
             <div class="work-card text-center">
@@ -86,7 +86,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
               <div class="work-card__content">
                 <h4 class="base--color mb-3">Invest To Plan</h4>
               </div>
-            </div><!-- work-card end -->
+            </div>
           </div>
           <div class="col-lg-4 col-md-6 work-item mb-30">
             <div class="work-card text-center">
@@ -97,11 +97,11 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
               <div class="work-card__content">
                 <h4 class="base--color mb-3">Get Profit</h4>
               </div>
-            </div><!-- work-card end -->
+            </div>
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- how work section end  -->
 
     
@@ -165,7 +165,7 @@ border:solid white 1px;
 }
 
 .speakercol{
-    background-color:#010101;
+   
     padding:0px;
     /* -webkit-box-shadow: -23px -20px 4px -7px rgba(231,166,26,1);
 -moz-box-shadow: -23px -20px 4px -7px rgba(231,166,26,1);

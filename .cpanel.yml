@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dmpz2n1mtav2/public_html/ftmig01/
+    - export DEPLOYPATH=/home/po2wvj97lv77/public_html/ftmig001
     - /bin/cp * $DEPLOYPATH
   
