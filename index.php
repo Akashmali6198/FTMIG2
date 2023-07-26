@@ -22,9 +22,18 @@
           <div class="col-lg-6 offset-lg-6">
             <div class="about-content">
               <h2 class="section-title mb-3"><span class="font-weight-normal">About</span> <b class="base--color">Us</b></h2>
-              <p>We are an international financial company engaged in investment activities, which are related to trading on financial markets and cryptocurrency exchanges performed by qualified professional traders.</p>
-              <p class="mt-4">Our goal is to provide our investors with a reliable source of high income, while minimizing any possible risks and offering a high-quality service, allowing us to automate and simplify the relations between the investors and the trustees. We work towards increasing your profit margin by profitable investment. We look forward to you being part of our community.</p>
-              <a href="#0" class="cmn-btn mt-4">MORE INFO</a>
+              <p>
+              FTMIG is a financial portal to the ever- expanding investing community. Founded in 2017 alongside his mentor and long-time friend Mike, Karl Boyd started a community to bring like-minded investors together; regardless of their knowledge or tenure.
+
+<p class="mt-4">Follow The Money was the first online community to start Facebook Live Q&A with publicly-traded companies. Karl would poll his community for questions and bring them directly to industry executives. This concept created a new value for investors and companies, and fueled their inspiration to share their stories to a wider, targeted audience.
+
+<p class="mt-4">Karl has conducted over 300 Interviews with some of the biggest names in the financial sector, from publicly-traded companies to financial education specialists, technical analysts, fund managers, real estate brokers and online influencers.
+
+<p class="mt-4">FTMIG has worked with large North American banks to host conferences and has been highlighted in FORBES Magazine.
+
+<p class="mt-4">As host of the Morning Drive series, Karl stays up-to-date on market information and creates a unique opportunity to showcase the history and developing stories in an organic way.
+
+                <br><a href="#0" class="cmn-btn mt-4">MORE INFO</a>
             </div><!-- about-content end -->
           </div>
         </div>
