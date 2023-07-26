@@ -1,6 +1,8 @@
 
-    <!-- footer section start -->
-    <style>
+      <!--footer start  -->
+<!-- footer section start -->
+<div class="footusm-line"></div>
+<style>
     .f-usm-menu {
       list-style: none;
       padding: 0;
@@ -10,7 +12,7 @@
     }
 
     .f-usm-menu li {
-      margin-right: 10px;
+      margin-right: 1px;
     }
 
     .f-usm-menu li:last-child {
@@ -20,17 +22,18 @@
     .f-usm-menu li a {
       text-decoration: none;
       color:white;
-      padding: 5px;
+      padding: 29px;
       font-size:20px;
     }
 
     
 
     .f-usm-menu li img {
-    max-width:30%;
+   
       object-fit: contain;
       float:right;
-      margin-left: -70px;
+      width:150px;
+      
     }
     .ftback
     {
@@ -47,9 +50,9 @@
       <hr style="border:solid gray 1px">
   <ul id="scrolling-wrapper" class="f-usm-menu" data-dragging="false">
     <li>
-      <a href="https://6ix.com">
+      <a href="https://ftmig.com">
       
-        <img src="assets/images/logo.png" class="foot-logo" alt="6ix">
+        <img src="assets/images/logo.png" class="foot-logo" alt="ftmig">
       </a>
     </li>
     <li><a href="">Signup/Login</a></li>

@@ -72,7 +72,7 @@
               <li> <a href="#">Live</a></li>
               <li> <a href="tv.php">TV</a></li>
               <li><a href="#">Markets</a></li>
-              <li><a href="#">Magazine</a></li>
+              <li><a href="Magazine.php">Magazine</a></li>
               <li><a href="companie.php">Companies</a></li>
               <li><a href="speakers.php">Speakers</a></li>
               <li><a href="#">Chat</a></li>
