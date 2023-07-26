@@ -860,7 +860,6 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
     font-size: 18px;
     line-height: 28px;
     color: #C0C0C0;
-    text-align: center;
 }.home-network img {
     margin: 0 auto;
     display: block;
