@@ -69,7 +69,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav main-menu m-auto">
               <li> <a href="event.php">Events</a></li>
-              <li> <a href="#">Live</a></li>
+              <li> <a href="event.php">Live</a></li>
               <li> <a href="tv.php">TV</a></li>
               <li><a href="#">Markets</a></li>
               <li><a href="Magazine.php">Magazine</a></li>
