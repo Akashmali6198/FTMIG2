@@ -289,7 +289,7 @@ p.ix-multi-subline {
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Strategy</h1>
+    <h1>Analytics</h1>
   </div>
 </section>
  <!-- Stretegy  start -->
@@ -317,7 +317,7 @@ p.ix-multi-subline {
     <div class="row">
         <div class="col-sm-12">
         <h1 class="ie-ix-title" style="font-size:55px;">
-         Investor Experience (IX) Platform - Strategy
+        Investor Experience (IX) Platform - Analytics
         </h1>
         <hr style="border:solid 1px gray;">
        </div>
@@ -327,10 +327,10 @@ p.ix-multi-subline {
     <div class="row">
         <div class="col-sm-12"> 
 
-               <h2>Project management software suite</h2>
+               <h2>Analytics software suite</h2>
 
                     <p class="ix-multi-subline">
-                    Where strategy invites clarity
+                    Where analytics invite insights
                    </p> 
        </div>
 
@@ -342,7 +342,7 @@ p.ix-multi-subline {
 
 
         <div class="col-12 col-lg-8"> 
-           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen"></noscript>
+           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/analytics/screen.png" class="ix-multi-screen"></noscript>
         </div><!--col-->
 
 
@@ -352,31 +352,28 @@ p.ix-multi-subline {
 
                   <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">Goals that Matter</h5>
+                         <h5 class="ix-multi-title-small">Measure What Matters</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                             Implement proven programs built around investor acquisition, activation, retention, referral, and investment (AARRI).
-                         </p>
+                         All of the metrics in our reports are aligned with your goals and business outcomes.</p>
 
                     </div><!--col--> 
 
                      <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">See Who's Doing What &amp; When</h5>
+                         <h5 class="ix-multi-title-small">Act On Insights</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                         See how all the pieces fit, at a glance, and what's coming next. 
-                         </p>
+                         Make data your competitive advantage and use it to get deals done.</p>
 
                     </div><!--col--> 
 
                      <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">Achieve Organizational Alignment</h5>
+                         <h5 class="ix-multi-title-small">Unlock Shareholder Value</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                             Get internal &amp; external stakeholders on the same page around strategy, messaging, brand identity, and process. 
-                         </p>
+                         Know yourself and know your investors and the opportunities will be boundless.</p>
 
                     </div><!--col--> 
 
@@ -400,20 +397,19 @@ p.ix-multi-subline {
 
                        <p class="ix-multi-quote-content">
                        <span><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/quote.png" class="ix-multi-quote-icon entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/quote.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/quote.png" class="ix-multi-quote-icon"></noscript></span>
-                      FTMIG does a great job arranging retail focused webinars as well as working with the companies to manage and optimize a digital media strategy to drive increased awareness.
-                        </p>
+                      FTMIG is bringing new ideas to getting our message out, and they’re doing a fantastic job of touching all the bases.</p>
         
                         <div class="row inner-author-row">
 
                             <div class="col-12 col-sm-12 col-md-6">
  
                                          <div class="ix-multi-quote-img">
-                                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/avatar.png" class="ix-multi-single-author entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/avatar.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/avatar.png" class="ix-multi-single-author"></noscript>
+                                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/analytics/avatar.png" class="ix-multi-single-author"></noscript>
                                          </div><!--img-->
 
                                          <div class="ix-multi-author"> 
-                                             <h4 class="ix-multi-quote-author">David D'Onofrio</h4>
-                                             <h5 class="ix-multi-quote-job">CEO, White Gold Corp</h5> 
+                                             <h4 class="ix-multi-quote-author">Patrick Laracy</h4>
+                                             <h5 class="ix-multi-quote-job">President</h5> 
                                          </div><!--multi-author-->
 
                             </div><!--col-->
@@ -421,7 +417,7 @@ p.ix-multi-subline {
                             <div class="col-12 col-sm-12 col-md-6">
 
                                          <div class="ix-multi-quote-logo">
-                                             <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/logo.png" class="ix-multi-logo entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/logo.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/logo.png" class="ix-multi-logo"></noscript>
+                                             <img style="max-width:30%!important;" src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/analytics/logo.png" class="ix-multi-logo entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/logo.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/logo.png" class="ix-multi-logo"></noscript>
                                          </div><!--logo-->
                                 
                             </div><!--col-->

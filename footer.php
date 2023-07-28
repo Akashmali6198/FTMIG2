@@ -80,11 +80,11 @@
           <a href="#0" class="footer-logo"><img src="assets/images/logo.png" alt="image"></a>
           <ul class="list-unstyled">  
             <li> <a href="#"> </a> </li>  
-            <li> <a href="#" style="color: aliceblue;">Events</a></li>  
+            <li> <a href="event.php" style="color: aliceblue;">Events</a></li>  
             <li> <a href="#" style="color: aliceblue;">Live</a></li>  
-            <li> <a href="#" style="color: aliceblue;">TV</a></li>  
+            <li> <a href="tv.php" style="color: aliceblue;">TV</a></li>  
             <li> <a href="#" style="color: aliceblue;">Markets</a></li>  
-            <li> <a href="#" style="color: aliceblue;" >Magazine</a></li>  
+            <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  
           </ul>  
         </div>  
       </div>  
@@ -93,9 +93,9 @@
          <h4>INVESTMENT DISCOVERY PLATFORM</h4>
          <br>
           <ul class="list-unstyled">  
-            <li><a href="#" style="color: aliceblue;" >Companies</a> </li>  
-            <li><a href="#" style="color: aliceblue;" >Speakers</a> </li>  
-            <li><a href="#" style="color: aliceblue;" >Conference</a></li>  
+            <li><a href="companies.php" style="color: aliceblue;" >Companies</a> </li>  
+            <li><a href="speakers.php" style="color: aliceblue;" >Speakers</a> </li>  
+            <li><a href="Conferences.php" style="color: aliceblue;" >Conference</a></li>  
             <li><a href="Chat.php" style="color: aliceblue;">Chat</a></li>  
             <li><a href="Strategy.php" style="color: aliceblue;">Strategy</a></li>  
             <li><a href="Summits.php" style="color: aliceblue;">Summits</a></li>  
@@ -109,9 +109,9 @@
           <ul class="list-unstyled">  
             <li> <a href="Ads.php" style="color: aliceblue;">Ads</a> </li>  
             <li> <a href="Web.php" style="color: aliceblue;">Web</a> </li>  
-            <li> <a href="" style="color: aliceblue;" >Creative</a> </li>  
-            <li> <a href="" style="color: aliceblue;" >IXO</a> </li>  
-            <li> <a href="" style="color: aliceblue;">Analytics</a> </li>  
+            <li> <a href="Creative.php" style="color: aliceblue;" >Creative</a> </li>  
+            <li> <a href="IXO.php" style="color: aliceblue;" >IXO</a> </li>  
+            <li> <a href="Analytics.php" style="color: aliceblue;">Analytics</a> </li>  
           </ul>  
         </div>  
       </div>  

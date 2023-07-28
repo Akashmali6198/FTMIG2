@@ -104,6 +104,9 @@ a{
     .upcoming-small-row {
     margin-bottom: 20px;
 }
+.magazine-wrapper{
+  padding:2%;
+}
 .featured-cols {
     border-right: 1px solid #373737;
 }
@@ -123,7 +126,107 @@ a{
     color: #fff;
 }
 
+/* input box */
 
+.mag-social-bg {
+    background-color: #131313;
+    padding: 30px;
+    min-height: 100px;
+}
+h3.mso-title {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #fff;
+}
+body .hs-input-6ix, body input#email-5c34190f-f0d7-4f48-9bc9-def89e8350a9 {
+    background: 0 0!important;
+    color: #fff!important;
+    border: 1px solid #565656!important;
+}
+label{
+  display:none;
+}
+body .hs-input-6ix, body input#email-5c34190f-f0d7-4f48-9bc9-def89e8350a9 {
+    background: 0 0!important;
+    border-color: #e3c050!important;
+    color: #fff!important;
+}
+
+input.hs-button.primary.large {
+    width: 140px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    transition: all .2s ease-in-out;
+    background: #000;
+    border: 1px solid #e3c050;
+    border-radius: 4px;
+    padding: 12px 25px;
+    display: inline-block;
+    min-width: 140px!important;
+    outline: 0;
+    margin-left: 15px;
+}
+input[type=email], input[type=month], input[type=number], input[type=password], input[type=range], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+    display:inline-block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+button, input {
+    overflow: visible;
+}
+.hs_email.hs-email.hs-fieldtype-text.field.hs-form-field {
+    display: inline-block;
+    width: 60%;
+}
+
+.hs_submit.hs-submit {
+    display: inline-flex;
+}
+h3.mso-title {
+    padding-bottom: 20px;
+}
+/* icons */
+.mag-social-bg {
+    height: 100%;
+}
+.mag-social-bg {
+    background-color: #131313;
+    padding: 30px;
+    min-height: 100px;
+}
+.msi-social-items span.mag-soc-icon {
+    color: #fff;
+    display: inline-block;
+    margin-right: 14px;
+    padding: 8px 9px;
+    background-color: #272728;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+}
+.mag-social-single {
+    margin-top: 15px;
+}
+/* daily */
 </style>
 
 
@@ -145,18 +248,18 @@ a{
                    <div class="col-sm-6 col-lg-6">
 
                     
-                      <a href="https://6ix.com/how-ai-is-streamlining-investor-relations-introducing-6ix-ais-prompt-library/" rel="bookmark">
+                      <a href="#" rel="bookmark">
 
                                       <div class="mh-img">
                               <img width="730" height="410" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/05/AI-Motherboard-scaled-1-730x410.jpg" class="img-mag-big wp-post-image entered lazyloaded" alt="Investor Relations AI" decoding="async" title="How AI is Streamlining Investor Relations: Introducing 6ix AI's Prompt Library" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/05/AI-Motherboard-scaled-1-730x410.jpg" data-ll-status="loaded"><noscript><img width="730" height="410" src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2023/05/AI-Motherboard-scaled-1-730x410.jpg" class="img-mag-big wp-post-image" alt="Investor Relations AI" decoding="async" title="How AI is Streamlining Investor Relations: Introducing 6ix AI&#039;s Prompt Library"></noscript>                            </div>
 
                         
-                  </a></div><!--col--><a href="https://6ix.com/how-ai-is-streamlining-investor-relations-introducing-6ix-ais-prompt-library/" rel="bookmark">
+                  </a></div><!--col--><a href="#" rel="bookmark">
 
-                  </a><div class="col-sm-6 col-lg-6 featured-col-one"><a href="https://6ix.com/how-ai-is-streamlining-investor-relations-introducing-6ix-ais-prompt-library/" rel="bookmark">
+                  </a><div class="col-sm-6 col-lg-6 featured-col-one"><a href="#" rel="bookmark">
 
-                     </a><h3><a href="https://6ix.com/how-ai-is-streamlining-investor-relations-introducing-6ix-ais-prompt-library/" rel="bookmark">
-                     </a><a href="https://6ix.com/how-ai-is-streamlining-investor-relations-introducing-6ix-ais-prompt-library/" title="How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library">How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library</a>
+                     </a><h3><a href="#" rel="bookmark">
+                     </a><a href="#" title="How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library">How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library</a>
                       
                     </h3>
 
@@ -184,7 +287,7 @@ a{
                         <div class="mag-h-two">
  
                        <h4>
-                        <a href="https://6ix.com/maximize-6ixs-benefits-advanced-tips-tricks-for-ir-professionals-in-mining-metals-companies/" title="Maximize 6ix’s Benefits: Advanced Tips &amp; Tricks for IR Professionals in Mining &amp; Metals Companies">Maximize 6ix’s Benefits: Advanced Tips &amp; Tricks for IR Professionals in Mining &amp; Metals Companies 
+                        <a href="#">Maximize Ftmig’s Benefits: Advanced Tips &amp; Tricks for IR Professionals in Mining &amp; Metals Companies 
                           
                          </a>
                        </h4>  
@@ -199,7 +302,7 @@ a{
                         <div class="mag-h-two">
  
                        <h4>
-                        <a href="https://6ix.com/maximize-ir-success-in-the-mining-industry-with-the-6ix-platform/" title="Maximize IR Success in the Mining Industry With the 6ix Platform">Maximize IR Success in the Mining Industry With the 6ix Platform 
+                        <a href="#" title="Maximize IR Success in the Mining Industry With the 6ix Platform">Maximize IR Success in the Mining Industry With the 6ix Platform 
                           
                          </a>
                        </h4>  
@@ -383,7 +486,7 @@ a{
 
 													<div class="col-sm-6">
 
-														<h3><a href="https://6ix.com/how-ai-is-streamlining-investor-relations-introducing-6ix-ais-prompt-library/" title="How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library">How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library</a></h3>
+														<h3><a href="#" title="How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library">How AI is Streamlining Investor Relations: Introducing 6ix AI’s Prompt Library</a></h3>
 
 														<p>Introduction In the ever-evolving world of Investor Relations, finding innovative ways to streamline your workflow and enhance the accuracy of your...</p>
 
@@ -417,7 +520,7 @@ a{
 												  										 
 												  			</div><!--mag-single-post-cat-->
 
-														<h5><a href="https://6ix.com/maximize-6ixs-benefits-advanced-tips-tricks-for-ir-professionals-in-mining-metals-companies/" title="Maximize 6ix’s Benefits: Advanced Tips &amp; Tricks for IR Professionals in Mining &amp; Metals Companies">Maximize 6ix’s Benefits: Advanced Tips &amp; Tricks for IR...</a></h5>
+														<h5><a href="#">Maximize 6ix’s Benefits: Advanced Tips &amp; Tricks for IR...</a></h5>
 
 														</div><!--col-->
 
@@ -441,7 +544,7 @@ a{
 												  										 
 												  			</div><!--mag-single-post-cat-->
 
-														<h5><a href="https://6ix.com/maximize-ir-success-in-the-mining-industry-with-the-6ix-platform/" title="Maximize IR Success in the Mining Industry With the 6ix Platform">Maximize IR Success in the Mining Industry With the 6ix Platform</a></h5>
+														<h5><a href="#" title="Maximize IR Success in the Mining Industry With the 6ix Platform">Maximize IR Success in the Mining Industry With the 6ix Platform</a></h5>
 
 														</div><!--col-->
 
@@ -758,10 +861,81 @@ a{
 
 
 
-    </div></section>								 
+    </div></section>								 				
+     </div>
 
-							
-<section class="mag-box">
+
+<!-- daily section -->
+<style>
+.mag-box{
+  background-color:black;
+  padding:4%;
+}
+.col-mag-box-inner {
+    background-color: #131313;
+    
+    padding: 40px;
+   
+}
+.mag-box h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 50px;
+    color: #fff;
+    margin-bottom: 20px;
+}.magazine-wrapper p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: silver;
+}
+.col-mg-btn {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.button-main.stroke-white {
+    background: #000!important;
+}
+.button-main.stroke-white {
+    position: relative;
+    border: 0;
+    border: 1px solid #e3c050;
+    transition: color 0s;
+}
+.magazine-wrapper a {
+    color: #fff;
+}
+.button-main {
+    font-size: 13px;
+    padding: 12px 25px;
+    white-space: nowrap;
+    border-radius: 4px;
+    color: #e3c050;
+    text-transform: uppercase;
+    font-family: Roboto,sans-serif;
+    font-weight: 700;
+    letter-spacing: .5px;
+    border-radius: 5px;
+    font-size: 14px;
+    float: left;
+}
+.tnw-four h5 {
+    margin: 15px 0!important;
+
+}
+.tnw-four {
+    padding: 4%;
+}
+section.mag-four {
+    margin-top: 4%;
+}
+</style>
+     <section class="mag-box ">
 	<div class="container">
 	<div class="row">
 
@@ -793,15 +967,7 @@ a{
     </div><!--row-->
     </div><!--container-->
 	
-</div></section>  
-
-								 
-
-							
-
-                            
-                        </div>
-
-
+</div></section>
+                 
 <!-- footer below -->
 <?php include 'footer.php' ?>

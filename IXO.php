@@ -289,7 +289,7 @@ p.ix-multi-subline {
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Strategy</h1>
+    <h1>IXO</h1>
   </div>
 </section>
  <!-- Stretegy  start -->
@@ -317,7 +317,7 @@ p.ix-multi-subline {
     <div class="row">
         <div class="col-sm-12">
         <h1 class="ie-ix-title" style="font-size:55px;">
-         Investor Experience (IX) Platform - Strategy
+        Investor Experience (IX) Platform - IXO
         </h1>
         <hr style="border:solid 1px gray;">
        </div>
@@ -327,10 +327,10 @@ p.ix-multi-subline {
     <div class="row">
         <div class="col-sm-12"> 
 
-               <h2>Project management software suite</h2>
+               <h2>A/B testing software suite</h2>
 
                     <p class="ix-multi-subline">
-                    Where strategy invites clarity
+                    Where investor journey optimizations (IXO) invite empathy
                    </p> 
        </div>
 
@@ -342,7 +342,7 @@ p.ix-multi-subline {
 
 
         <div class="col-12 col-lg-8"> 
-           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen"></noscript>
+           <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/ixo/screen.png" class="ix-multi-screen entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/strategy/screen.png" class="ix-multi-screen"></noscript>
         </div><!--col-->
 
 
@@ -352,31 +352,26 @@ p.ix-multi-subline {
 
                   <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">Goals that Matter</h5>
+                         <h5 class="ix-multi-title-small">Heatmaps</h5>
                          <span class="exp-pts-line-white"></span>
                          <p class="ix-multi-subline-small">
-                             Implement proven programs built around investor acquisition, activation, retention, referral, and investment (AARRI).
-                         </p>
+                         Visualize how investors on aggregate are using your website with heatmaps.</p>
 
                     </div><!--col--> 
 
                      <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">See Who's Doing What &amp; When</h5>
+                         <h5 class="ix-multi-title-small">Recordings</h5>
                          <span class="exp-pts-line-white"></span>
-                         <p class="ix-multi-subline-small">
-                         See how all the pieces fit, at a glance, and what's coming next. 
-                         </p>
+                         <p class="ix-multi-subline-small">See how anonymized individual investors are using your website. </p>
 
                     </div><!--col--> 
 
                      <div class="col-12">
 
-                         <h5 class="ix-multi-title-small">Achieve Organizational Alignment</h5>
+                         <h5 class="ix-multi-title-small">A/B Tests</h5>
                          <span class="exp-pts-line-white"></span>
-                         <p class="ix-multi-subline-small">
-                             Get internal &amp; external stakeholders on the same page around strategy, messaging, brand identity, and process. 
-                         </p>
+                         <p class="ix-multi-subline-small">While maintaining regulatory compliance, discover what resonates best with investors.</p>
 
                     </div><!--col--> 
 
