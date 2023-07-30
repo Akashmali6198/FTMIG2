@@ -1,4 +1,5 @@
 <?php include 'header.php' ?>
+
 <!-- header above -->
 
 <style>
@@ -14,10 +15,10 @@
 
 .banner h1 {
   color: #fff;
-  font-size: 55px;
+  font-size: 50px;
   font-weight: bold
   z-index: 1;
-  margin-top:10%;
+  margin-top:5%;
 }
 .banner{
   Margin-top:6%;
@@ -32,7 +33,8 @@ font-weight:500;
         <div class="row">
             <div class="col-md-12">
               
-             <h1>Debate, fund, and build<br>
+             <h1><span style="font-size:60px;color:#E3A354;">About</span>
+              <br>Debate, fund, and build<br>
               the future, together</h1>
               <hr style="border: solid 2px #CCA354;width:35%;" >
               <p class="mission">Our mission is to unlock social mobility on a global<br>
