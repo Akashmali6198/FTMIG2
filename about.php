@@ -418,7 +418,7 @@ section#about-rel {
 
         <div class="about-rel-btn">
 
-        <a href="https://6ix.com/careers/">
+        <a href="#">
          <div class="btn-gold">Careers <i class="fa fa-arrow-right" aria-hidden="true"></i></div>
         </a>
 
