@@ -56,7 +56,7 @@
       </a>
     </li>
     <li><a href="">Signup/Login</a></li>
-    <li><a href="">About</a></li>
+    <li><a href="about.php">About</a></li>
     <li><a href="">Invest</a></li>
     <li><a href="">Raise</a></li>
     <li><a href="">Host</a></li>
@@ -120,7 +120,7 @@
             <br>  
             <ul class="social-network social-circle">  
              <li> <a href="#" class="icoFacebook" title="Facebook" style="color: aliceblue;">(833) 544-4456</a> </li>  
-             <li> <a href="#" class="icoLinkedin" title="Linkedin" style="color: aliceblue;">friends@6ix.com</a> </li>  
+             <li> <a href="#" class="icoLinkedin" title="Linkedin" style="color: aliceblue;">friends@FTMIG.com</a> </li>  
     <li> <a href="#" style="color: aliceblue;">#202-1200 Bay St., Toronto,
 Ontario, Canada, M5R 2A5</a> </li>  
             </ul>               
