@@ -3,6 +3,19 @@
 <!-- footer section start -->
 <div class="footusm-line"></div>
 <style>
+
+@media only screen and (max-width: 600px) {
+.f-usm-menu {
+display:block!important
+
+}
+.nav-pills .nav-link{
+  width:100%;
+  
+}
+/* media query */
+}
+
     .f-usm-menu {
       list-style: none;
       padding: 0;
