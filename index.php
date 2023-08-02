@@ -114,7 +114,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
     font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
-    color: #e3c050;
+    color: #78a343;
 }
 .hs-scrolling-debate h1 {
     font-family: Playfair Display;
@@ -125,7 +125,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
     margin-top: 20px;
 }
 .speaker{
-    color:#CCA354;
+    color:#78a343;
 }
 .description{
   font-size:16px!important;
@@ -134,7 +134,7 @@ FOR INVESTORS</h2><br><h4><b class="base--color">Follow The Money Investor Group
 }
 ul.description li::before {
       content: "•"; /* Use any character for the bullet (e.g., •, ►, ▪) */
-      color: orange; /* Set the desired color */
+      color: #78a343; /* Set the desired color */
       margin-right: 5px;
        /* Add spacing between bullet and list item content */
     }
@@ -147,9 +147,9 @@ ul.description li::before {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
     background-color:black;
-    -webkit-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
--moz-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
+    -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+-moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 border:solid white 1px;
 }
 
@@ -189,9 +189,9 @@ img.speaker-image {
 border-left:0px;
 }
 .colorchange:hover{
-  -webkit-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
--moz-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
-box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
+ -webkit-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+-moz-box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
+box-shadow: -1px -1px 3px 3px rgba(120,163,67,1);
 }
 </style>
 
@@ -966,7 +966,7 @@ h2.sixip-latest-events {
     top: 2px;
     width: 12px;
     height: 12px;
-    background: #e3c050;
+    background: #78a343;
 }h4.card-medium-title {
     height: 100px;
     overflow: hidden;
@@ -1003,7 +1003,7 @@ p.event-card-c-name {
     padding: 7px;
     background: #000;
     width: 135px;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     max-height: 31px;
 color:white;
 font-weight:700;
@@ -1018,7 +1018,7 @@ font-weight:700;
     position: relative;
     color:white;
 }img.las.la-calendar {
-    color: #CCA354;
+    color: #78a343;
 }.latest-btn-holder {
     margin: 45px auto 0 auto;
     display: block;
@@ -1026,7 +1026,7 @@ font-weight:700;
 }
 .sixip-btn-gold {
     background: #000;
-    border: 1px solid #e3c050;
+    border: 1px solid #78a343;
     border-radius: 4px;
     font-family: Roboto;
     font-style: normal;
@@ -1046,7 +1046,7 @@ font-weight:700;
 		<div class="row">
 			<div class="col-sm-12 col-md-12">
 				<h2 class="sixip-latest-events">On Demand Events
-        <hr style="border:solid 2px #CCA354;width:15%">
+        <hr style="border:solid 2px #78a343;width:15%">
         </h2>
 			</div><!--end-col-->
 		</div><!--row-->
