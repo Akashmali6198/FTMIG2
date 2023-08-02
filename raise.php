@@ -120,21 +120,39 @@ p.match-info-subline {
     height: 50px;
     margin: 0 10px 0 15px;
 }
+a.irm-btn {
+    align-items: center;
+    padding: 10px 20px;
+    background: #000000;
+    border: 1px solid #E3C050;
+    border-radius: 4px;
+    display: inline-block;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+	color:white;
+}
+
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>Invest</h1>
+    <h1>Raise</h1>
   </div>
 
 </section>
 <!-- banner end -->
 
 
-<!-- struggling section start -->
+<!-- investors section start -->
 
 
+
+    
 <section class="match-hero">
-
+	
   	<div class="container">
 
 	<div class="row">
@@ -143,7 +161,7 @@ p.match-info-subline {
 
 			<div class="irm-menu">
 
-				<a href="#" class="irm-link">INVEST</a>
+				<a href="#" class="irm-link">RAISE</a>
 				<a href="#overview-it" class="irm-link matchmenu over-it"><i class="fa-light fa-circle-nodes"></i>Overview</a>
 
 			</div><!--irm-menu-->
@@ -164,13 +182,20 @@ p.match-info-subline {
 
 		<div class="col-12 col-md-6">
 
-			<h1><br>Struggling to <br>discover great<br> companies?</h1> 
-			<p>Meet the FTMIG Investment Discovery (ID) Platform, a suite of tools purpose built to help investors connect with companies.</p>
- 
+			<h1>Investors.<br>Faster.</h1>
+			<p>Meet the FTMIG Investor Experience (IX) Platform, a suite of tools purpose built to help investor relations professionals attract new investors, engage existing shareholders, and get analyst coverage.</p>
+
+			<div class="irm-hero-btns"> 
+                           <a href="https://ftmig.com/demo/" class="irm-btn">Start for Free <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+				 
+			</div><!--btns-->
+			 
 		</div><!--end-col-->
 
 		<div class="col-sm-12 col-md-6">
-                <div data-bg="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/video-background.png" class="active" id="video" style="background-image: url(&quot;https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/video-background.png&quot;);" data-ll-status="loaded"><iframe src="https://www.youtube.com/embed/YBb-0x0na0I?rel=0&amp;autoplay=1" width="600" height="400" frameborder="0" allowfullscreen="false" data-lf-form-tracking-inspected-bmwm7e2j8aaeozya="true" data-lf-yt-playback-inspected-bmwm7e2j8aaeozya="true" data-lf-vimeo-playback-inspected-bmwm7e2j8aaeozya="true"></iframe></div>
+         
+<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/66527/19783717-3de6-4308-bd53-124461875682?autoplay=true&amp;muted=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://iframe.mediadelivery.net/embed/66527/19783717-3de6-4308-bd53-124461875682?autoplay=true&amp;muted=true" data-ll-status="loaded" class="entered lazyloaded" data-lf-form-tracking-inspected-bmwm7e2j8aaeozya="true" data-lf-yt-playback-inspected-bmwm7e2j8aaeozya="true" data-lf-vimeo-playback-inspected-bmwm7e2j8aaeozya="true"></iframe><noscript><iframe src="https://iframe.mediadelivery.net/embed/66527/19783717-3de6-4308-bd53-124461875682?autoplay=true&muted=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></noscript></div>
+ 
 		</div><!--end-col--> 
 
 	</div><!--end-row-->
@@ -180,7 +205,7 @@ p.match-info-subline {
 </section>
 
 
-<!-- struggling section end -->
+<!-- investors section end -->
 
 <!-- intro start -->
 <section class="introduction">
@@ -191,18 +216,22 @@ p.match-info-subline {
 
 		<div class="col-12 col-lg-10 mx-auto">
 
-			<h2 class="match-wrapper-h2">Introducing the FTMIG <br> Investment Discovery (ID) Platform</h2> 
-			<p class="match-info-subline">Its everything you need to connect with companies online.</p>
+			<h2 class="match-wrapper-h2">Introducing the FTMIG <br> Investor Experience (IX)  Platform</h2> 
+			<p class="match-info-subline">Its everything you need to connect with investors online.</p>
 
 			<div class="down-btns"> 
- 
-		        <a href="#">
+
+                  <a href="https://ftmig.com/demo/" class="sixip-home-btn">
+		        <span class="hscb-text">Request Demo</span> 
+		        </a>
+
+		        <a href="https://download.ftmig.com">
 									<div class="down-box">
 								    <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/mac.png" class="ix-multi-down-icon entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/mac.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/mac.png" class="ix-multi-down-icon"></noscript>
 								    </div><!--down-box-->								
 				 </a>
                
-                 <a href="#">
+                 <a href="https://download.ftmig.com">
 								<div class="down-box">
 								    <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/win.png" class="ix-multi-down-icon entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/win.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/ie-ix/win.png" class="ix-multi-down-icon"></noscript>
 								</div><!--down-box-->
@@ -212,7 +241,7 @@ p.match-info-subline {
 
 
 			<div class="intro-block">
-              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/investor-dashboard.png" alt="issuer-dashboard" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/investor-dashboard.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/investor-dashboard.png" alt="issuer-dashboard"></noscript>
+              <img alt="issuer-dashboard" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/issuer-dashboard.png" class="entered lazyloaded" src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/issuer-dashboard.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/issuer-dashboard.png" alt="issuer-dashboard"></noscript>
 			</div>
 			 
 		</div><!--end-col-->
@@ -223,8 +252,6 @@ p.match-info-subline {
     </div><!--container-->  
     
 </section>
-
-
 
 <!-- intro end -->
 
@@ -401,7 +428,7 @@ h6.name {
 }
      </style>
 
-     <section id="overview-it" class="invest-is">
+<section id="overview-it" class="invest-is">
 	
   	<div class="container">
  
@@ -409,7 +436,7 @@ h6.name {
 
 		<div class="col-12 col-lg-10 mx-auto">
 
-			<h2 class="match-wrapper-h2">For retail, accredited, corporate, and <br> institutional investors that want an edge...</h2>  
+			<h2>For investor relations professionals...</h2>  
   
 		</div><!--end-col-->
  
@@ -421,15 +448,73 @@ h6.name {
 			<div class="col-12">
 
 				<div class="invest-is-single">
+ 
+					<div class="row row-iis-main">
+
+						 <div class="col-12 col-md-6"> 
+
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Digital Roadshow &amp; Virtual Conferences</h3>
+						 	<p class="iis-desc">
+						 		Connect with audiences all around the world by hosting and presenting at digital roadshows and virtual conferences.
+						 	</p>
+
+						 	<div class="row iis-duo-row">
+
+						 		<div class="col-12 col-md-6"> 
+
+						 			<ul>
+						 				<li>MINING INVESTOR EXPERIENCE</li>
+						 				<li>LEADERS IN MINING</li>
+						 				<li>SPRING CONFERENCE</li> 				
+						 			</ul>
+
+						 		 </div><!--end-col-->
+
+						 		<div class="col-12 col-md-6"> 
+
+						 			<ul>
+						 				<li>SUMMER CONFERENCE</li>
+						 				<li>WINTER CONFERENCE</li>
+						 				<li>AFRICA ACCELERATING</li> 				
+						 			</ul>	
+
+						 		 </div><!--end-col-->
+
+		                    </div><!--end-row-->
+						  
+				         </div><!--end-col-->
+
+						<div class="col-12 col-md-6">  
+				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/digital.png" alt="FTMIG RAISE software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/digital.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/digital.png" alt="FTMIG RAISE software"></noscript> 
+				         </div><!--end-col-->
+		 
+				 </div><!--end-row-->
+
+				</div><!--invest-is-single-->
+
+			</div><!--end-col-->
+
+		</div><!--end-row-->
+
+		<div class="row">
+
+			<div class="col-12">
+
+				<div class="invest-is-single">
+					
+				    <div class="arrow-right">
+						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png"></noscript> 
+					</div>
 
 					<div class="row row-iis-main">
 
 						 <div class="col-12 col-md-6"> 
 
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your Ticket to Summits &amp; Virtual Events</h3>
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Summits &amp; Virtual Events</h3>
 						 	<p class="iis-desc">
-						 		Stay informed about your favourite companies through live and on demand videos. Participate in live Q&amp;A sessions to get your questions answered live. 
+						 		Share valuable information and answer questions about your company in real-time. Engage and connect with your audience through a variety of unique summit formats. 
 						 	</p>
 
 						 	<div class="row iis-duo-row">
@@ -463,7 +548,7 @@ h6.name {
 				         </div><!--end-col-->
 
 						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/summits.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/summits.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/summits.png" alt="FTMIG investment software"></noscript> 
+				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/events.png" alt="FTMIG RAISE  software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/events.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/events.png" alt="FTMIG RAISE  software"></noscript> 
 				         </div><!--end-col-->
 		 
 				 </div><!--end-row-->
@@ -474,25 +559,24 @@ h6.name {
 
 		</div><!--end-row-->
 
-
-<div class="row">
+       <div class="row">
 
 			<div class="col-12">
 
-				<div class="invest-is-single iis-last">
+				<div class="invest-is-single">
 
-					<div class="arrow-right">
-						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png"></noscript> 
+					<div class="arrow-left">
+						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png"></noscript> 
 					</div>
 
 					<div class="row row-iis-main">
 
 						 <div class="col-12 col-md-6"> 
 
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your Events On-Demand Recordings</h3>
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Marketing &amp; Advertising Plan</h3>
 						 	<p class="iis-desc">
-						 		Stream our catalog of investor summits to learn more about the companies your interested. Available, anytime and anywhere.
+						 		Reach your target audience efficiently and effectively. Build your following and attract more investors to engage with  your company’s story and updates. 
 						 	</p>
 
 						 	<div class="row iis-duo-row">
@@ -500,9 +584,10 @@ h6.name {
 						 		<div class="col-12 col-md-6"> 
 
 						 			<ul>
-						 				<li>Panels</li>
-						 				<li>Educational Series</li>
-						 				<li>Year In Reviews</li> 				
+						 				<li>Grow Your Email List</li>
+						 				<li>Get Visitors to Your PR</li>
+						 				<li>Promote Your Page on FTMIG</li>
+						 				<li>Promote Your YouTube, Twitter, Facebook, LinkedIn, Instagram</li> 				
 						 			</ul>
 
 						 		 </div><!--end-col-->
@@ -510,9 +595,10 @@ h6.name {
 						 		<div class="col-12 col-md-6"> 
 
 						 			<ul>
-						 				<li>Solo Summits</li>
-						 				<li>6-Minute Updates</li>
-						 				<li>Pitch Battles</li> 			
+						 				<li>Native Ads</li>
+						 				<li>Google Display &amp; Search Ads </li>
+						 				<li>Display Banners</li>
+						 				<li>Video Ads</li>  				
 						 			</ul>	
 
 						 		 </div><!--end-col-->
@@ -522,7 +608,7 @@ h6.name {
 				         </div><!--end-col-->
 
 						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/ondemand.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/ondemand.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/ondemand.png" alt="FTMIG investment software"></noscript> 
+				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/marketing.png" alt="FTMIG RAISE software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/marketing.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/marketing.png" alt="FTMIG RAISE software"></noscript> 
 				         </div><!--end-col-->
 		 
 				 </div><!--end-row-->
@@ -540,18 +626,133 @@ h6.name {
 
 				<div class="invest-is-single">
 
-					<div class="arrow-left">
-						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png"></noscript> 
+					<div class="arrow-right">
+						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png"></noscript> 
 					</div>
 
 					<div class="row row-iis-main">
 
 						 <div class="col-12 col-md-6"> 
 
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your Financial Data Terminal</h3>
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Email Marketing &amp; Automation Strategy</h3>
 						 	<p class="iis-desc">
-						 		Keep track of your company watchlist 
+						 		Make each new follower feel important by utilizing email marketing strategies. Ensure your followers are welcomed and in the know, whenever your company has new updates. 
+						 	</p>
+
+						 	<div class="row iis-duo-row">
+
+						 		<div class="col-12 col-md-6"> 
+
+						 			<ul>
+						 				<li>Welcome Emails</li>
+						 				<li>Press Release</li>
+						 				<li>Event Invite</li> 				
+						 			</ul>
+
+						 		 </div><!--end-col-->
+
+						 		<div class="col-12 col-md-6"> 
+
+						 			<ul>
+						 				<li>Meeting Invite</li>
+						 				<li>Investor Newsletter</li>
+						 				<li>General Update</li> 				
+						 			</ul>	
+
+						 		 </div><!--end-col-->
+
+		                    </div><!--end-row-->
+						  
+				         </div><!--end-col-->
+
+						<div class="col-12 col-md-6">  
+				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/email.png" alt="FTMIG RAISE software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/email.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/email.png" alt="FTMIG RAISE software"></noscript> 
+				         </div><!--end-col-->
+		 
+				 </div><!--end-row-->
+
+				</div><!--invest-is-single-->
+
+			</div><!--end-col-->
+
+		</div><!--end-row-->
+
+		
+		<div class="row">
+
+			<div class="col-12">
+
+				<div class="invest-is-single">
+
+					<div class="arrow-left">
+						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png"></noscript> 
+					</div>
+
+					<div class="row row-iis-main">
+
+						 <div class="col-12 col-md-6"> 
+
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Social Media &amp; Content Calendar</h3>
+						 	<p class="iis-desc">
+						 		Share your company’s recent updated at the right time, and to the right people. Schedule your content ahead of time, to ensure that your followers are always kept up to date.
+						 	</p>
+
+						 	<div class="row iis-duo-row">
+
+						 		<div class="col-12 col-md-6"> 
+
+						 			<ul>
+						 				<li>Twitter</li>
+						 				<li>Facebook</li> 				
+						 			</ul>
+
+						 		 </div><!--end-col-->
+
+						 		<div class="col-12 col-md-6"> 
+
+						 			<ul>
+						 				<li>LinkedIn</li>
+						 				<li>YouTube</li> 				
+						 			</ul>	
+
+						 		 </div><!--end-col-->
+
+		                    </div><!--end-row-->
+						  
+				         </div><!--end-col-->
+
+						<div class="col-12 col-md-6">  
+				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/social.png" alt="FTMIG RAISE software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/social.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/social.png" alt="FTMIG RAISE software"></noscript> 
+				         </div><!--end-col-->
+		 
+				 </div><!--end-row-->
+
+				</div><!--invest-is-single-->
+
+			</div><!--end-col-->
+
+		</div><!--end-row-->
+
+		<div class="row">
+
+			<div class="col-12">
+
+				<div class="invest-is-single">
+
+					<div class="arrow-right">
+						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-right.png"></noscript> 
+					</div>
+
+					<div class="row row-iis-main">
+
+						 <div class="col-12 col-md-6"> 
+
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Website &amp; Investor Portal</h3>
+						 	<p class="iis-desc">
+						 		Improve user experience, increase website traffic and conversions by revamping your website. Establish trust with potential customers with your well-designed site.
 						 	</p>
 
 						 	<div class="row iis-duo-row">
@@ -579,7 +780,7 @@ h6.name {
 				         </div><!--end-col-->
 
 						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/data.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/data.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/data.png" alt="FTMIG investment software"></noscript> 
+				              <img alt="FTMIG RAISE software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/website.png" class="entered lazyloaded" src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/website.png" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/website.png" alt="FTMIG RAISE software"></noscript> 
 				         </div><!--end-col-->
 		 
 				 </div><!--end-row-->
@@ -590,196 +791,28 @@ h6.name {
 
 		</div><!--end-row-->
 
-
-<div class="row">
-
-			<div class="col-12">
-
-				<div class="invest-is-single">
-
-					<div class="arrow-right">
-						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png"></noscript> 
-					</div>
-
-					<div class="row row-iis-main">
-
-						 <div class="col-12 col-md-6"> 
-
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your UGC Financial Magazine</h3>
-						 	<p class="iis-desc">
-						 		Read business content from industry experts and enthusiasts. Filter sotries by your favourite writer or topic.
-						 	</p>
-
-						 	<div class="row iis-duo-row">
-
-						 		<div class="col-12 col-md-6"> 
-
-						 			<ul>
-						 				<li>Summit Highlights</li>
-						 				<li>Company News</li>  				
-						 			</ul>
-
-						 		 </div><!--end-col-->
-
-						 		<div class="col-12 col-md-6"> 
-
-						 			<ul>
-						 				<li>Press releases</li>
-						 				<li>Investor Newsletter</li>  				
-						 			</ul>	
-
-						 		 </div><!--end-col-->
-
-		                    </div><!--end-row-->
-						  
-				         </div><!--end-col-->
-
-						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/magazine.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/magazine.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/magazine.png" alt="FTMIG investment software"></noscript> 
-				         </div><!--end-col-->
-		 
-				 </div><!--end-row-->
-
-				</div><!--invest-is-single-->
-
-			</div><!--end-col-->
-
-		</div><!--end-row-->
-
-
-		<div class="row">
-
-			<div class="col-12">
-
-				<div class="invest-is-single">
-
-					<div class="arrow-left">
-						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png"></noscript> 
-					</div>
-
-					<div class="row row-iis-main">
-
-						 <div class="col-12 col-md-6"> 
-
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your Direct Line to Companies &amp; CEOs</h3>
-						 	<p class="iis-desc">
-						 		Browse our catalog of on-demand videos and unique content from your favourite companies and CEOs on their personalized company pages.
-						 	</p>
-
-						 	<div class="row iis-duo-row">
-
-						 		<div class="col-12 col-md-6"> 
-
-						 			<ul>
-						 				<li>Email Subscriptions</li>
-						 				<li>Stock Information</li> 				
-						 			</ul>
-
-						 		 </div><!--end-col-->
-
-						 		<div class="col-12 col-md-6"> 
-
-						 			<ul>
-						 				<li>Summits on-Demand</li>
-						 				<li>Company Details</li> 				
-						 			</ul>	
-
-						 		 </div><!--end-col-->
-
-		                    </div><!--end-row-->
-						  
-				         </div><!--end-col-->
-
-						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/link.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/link.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/link.png" alt="FTMIG investment software"></noscript> 
-				         </div><!--end-col-->
-		 
-				 </div><!--end-row-->
-
-				</div><!--invest-is-single-->
-
-			</div><!--end-col-->
-
-		</div><!--end-row-->
+		  
 
  
-		<div class="row">
-
-			<div class="col-12">
-
-				<div class="invest-is-single">
-
-					<div class="arrow-right">
-						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-right.png"></noscript> 
-					</div>
-
-					<div class="row row-iis-main">
-
-						 <div class="col-12 col-md-6"> 
-
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your Direct Line to Speakers &amp; Leaders</h3>
-						 	<p class="iis-desc">
-						 		Discover new speakers and thought leaders (or find your favourites) on their unique Speaker pages.
-						 	</p>
-
-						 	<div class="row iis-duo-row">
-
-						 		<div class="col-12 col-md-6"> 
-
-						 			<ul>
-						 				<li>Decriptions</li>
-						 				<li>On-Demand Summits</li> 			
-						 			</ul>
-
-						 		 </div><!--end-col-->
-
-						 		<div class="col-12 col-md-6"> 
-
-						 			<ul>
-						 				<li>Company Information</li>
-						 				<li>Speaker Details</li>  				
-						 			</ul>	
-
-						 		 </div><!--end-col-->
-
-		                    </div><!--end-row-->
-						  
-				         </div><!--end-col-->
-
-						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/speakers.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/speakers.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/speakers.png" alt="FTMIG investment software"></noscript> 
-				         </div><!--end-col-->
-		 
-				 </div><!--end-row-->
-
-				</div><!--invest-is-single-->
-
-			</div><!--end-col-->
-
-		</div><!--end-row-->
-
 
 		<div class="row">
 
 			<div class="col-12">
 
-				<div class="invest-is-single">
+				<div class="invest-is-single iis-last">
 
 					<div class="arrow-left">
-						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/arrow-left.png"></noscript> 
+						 <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/arrow-left.png"></noscript> 
 					</div>
 
 					<div class="row row-iis-main">
 
 						 <div class="col-12 col-md-6"> 
 
-						 	<p class="iis-gold">FTMIG INVEST Is…</p>
-						 	<h3>Your Real-Time Finance Chat Room</h3>
+						 	<p class="iis-gold">FTMIG RAISE Is…</p>
+						 	<h3>Your Analytics &amp; Peer Insights</h3>
 						 	<p class="iis-desc">
-						 		Follow along with your favourite companies, CEOs and Speakers, and chat with likeminded investors on Chat. 
+						 		Gather valuable data on your marketing campaigns, ads and summits, and utilize the insights to improve your  strategies and make informed business decisions. 
 						 	</p>
 
 						 	<div class="row iis-duo-row">
@@ -787,8 +820,9 @@ h6.name {
 						 		<div class="col-12 col-md-6"> 
 
 						 			<ul>
-						 				<li>Favourites</li>
-						 				<li>Teams</li> 				
+						 				<li>Overall Dashboard</li>
+						 				<li>Summit Dashboard</li>
+						 				<li>Social Dashboard</li> 				
 						 			</ul>
 
 						 		 </div><!--end-col-->
@@ -796,8 +830,9 @@ h6.name {
 						 		<div class="col-12 col-md-6"> 
 
 						 			<ul>
-						 				<li>Discussions</li>
-						 				<li>Private Messages</li> 				
+						 				<li>Email Dashboard</li>
+						 				<li>Ads Dashboard</li>
+						 				<li>Peer Comparasion</li> 			
 						 			</ul>	
 
 						 		 </div><!--end-col-->
@@ -807,7 +842,7 @@ h6.name {
 				         </div><!--end-col-->
 
 						<div class="col-12 col-md-6">  
-				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/chat.png" alt="FTMIG investment software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/chat.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/invest/chat.png" alt="FTMIG investment software"></noscript> 
+				              <img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/analytics.png" alt="FTMIG RAISE software" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/analytics.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/themes/six-usm/assets/img/raise/analytics.png" alt="FTMIG RAISE software"></noscript> 
 				         </div><!--end-col-->
 		 
 				 </div><!--end-row-->
@@ -818,13 +853,10 @@ h6.name {
 
 		</div><!--end-row-->
  
-		
     </div><!--container-->  
     
 </section>
-
-
-     <!-- retails section end -->
+    <!-- retails section end -->
 
 
 
@@ -835,333 +867,8 @@ h6.name {
     background-color:black;
     padding:3% 5% 3% 5% ;
     }
-    .match-wrapper-h2 {
-    font-family: 'Playfair Display';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 48px;
-    line-height: 56px;
-    color: #FFFFFF;
-    text-align: center;
-    margin-bottom: 30px;
-}p.match-info-subline {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 28px;
-    text-align: center;
-    color: #C0C0C0;
-    margin: 40px 0;
-}.idp-ixp-block-inner {
-    background: #1f1f1f;
-    border: 1px solid #373737;
-    border-radius: 4px;
-    padding: 30px;
-    height: 100%;
-    position: relative;
-}.idp-ixp-block-inner .fal {
-    font-size: 20px;
-    line-height: 26px;
-    color: #f1dda9;
-}.idp-ixp-block-inner h4 {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 27px;
-    color: #f1dda9;
-    margin-left: -15px;
-    margin-top: 0;
-}
-p.p-idp-ixp-bolded {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 19px;
-    line-height: 24px;
-    color: #fff;
-    margin: 12px 0;
-}p.p-idp-ixp-normal {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 22px;
-    color: silver;
-    margin: 12px 0 0 0;
-    height: 135px;
-}.idp-ixp-block-inner a {
-    display: block;
-    float: left;
-}
-a.sixip-btn-gold {
-    color: #fff;
-}
-.sixip-btn-gold {
-    background: #000;
-    border: 1px solid #e3c050;
-    border-radius: 4px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 19px;
-    text-transform: uppercase;
-    color: #fff;
-    padding: 10px 25px;
-    transition: all .3s ease;
-}.col-sm-12.col-md-6.col-lg-4.idp-ixp-col {
-    margin-top: 30px;
-}
+    /*  */
      </style>
-
-     <section class="sixip-home-idp-ixp-blocks">
-	<div class="container">
-        <div class="row">
-    	<div class="col-sm-12">
-		<h2 class="match-wrapper-h2">Powered by the FTMIG <br>Investment Discovery (ID) Platform App Store</h2>
-		<p class="match-info-subline">A universe of applications purpose built for your needs as an investor relations professional</p>
-        </div><!--end-col-->
-		</div><!--row--> 
-
-        <div class="row idp-ixp-row-first">
-
-    	<div class="col-sm-12 col-md-6 col-lg-4 idp-ixp-col">
-			  <div class="idp-ixp-block-inner">
-			    <div class="row">
-			      <div class="col-2 col-md-2">
-			        <i class="fal fa-calendar" aria-hidden="true"></i>
-			      </div>
-			      <!--end-col-->
-			      <div class="col-9 col-md-10">
-			        <h4>Live</h4>
-			      </div>
-			    </div>
-			    <!--row-->
-			    <div class="row">
-			      <div class="col-sm-12">
-			        <p class="p-idp-ixp-bolded"> Virtual Investment Events Software </p>
-			        <p class="p-idp-ixp-normal"> Network with CEOs, heads of states, and a community of more than 100,000 other investors, analysts, and companies. Follow along with everything related to individual topics, projects or teams. </p>
-			      </div>
-			      <!--end-col-->
-			    </div>
-			    <!--row-->
-
-			    <div class="idp-ixp-block-footer">
-			    <div class="row">
-			      <div class="col-6">
-			        <div class="shixidp-block-btn">
-			          <a href="#" class="sixip-btn-gold">Launch</a>
-			        </div>
-			      </div>
-			      <!--end-col-->
- 
-			    </div>
-			    <!--row-->
-			    </div><!--idp-ixp-block-footer-->
-
-
-			  </div>  <!--idp-ixp-block-inner-->
-			</div> <!--end-col-->
-
-    	    <div class="col-sm-12 col-md-6 col-lg-4 idp-ixp-col">
-			  <div class="idp-ixp-block-inner">
-			    <div class="row">
-			      <div class="col-2 col-md-2">
-			        <i class="fal fa-light fa-tv" aria-hidden="true"></i>
-			      </div>
-			      <!--end-col-->
-			      <div class="col-9 col-md-10">
-			        <h4>TV</h4>
-			      </div>
-			    </div>
-			    <!--row-->
-			    <div class="row">
-			      <div class="col-sm-12">
-			        <p class="p-idp-ixp-bolded">Video On Demand Software</p>
-			        <p class="p-idp-ixp-normal">Network with CEOs, heads of states, and a community of more than 100,000 other investors, analysts, and companies. Follow along with everything related to individual topics, projects or teams.</p>
-			      </div>
-			      <!--end-col-->
-			    </div>
-			    <!--row-->
-
-			    <div class="idp-ixp-block-footer">
-			    <div class="row">
-			      <div class="col-6">
-			        <div class="shixidp-block-btn">
-			          <a href="#" class="sixip-btn-gold">Launch</a>
-			        </div>
-			      </div>
-			      <!--end-col-->
- 
-			    </div>
-			    <!--row-->
-			    </div><!--idp-ixp-block-footer-->
-
-
-			  </div>  <!--idp-ixp-block-inner-->
-			</div> <!--end-col-->
-
-    	    <div class="col-sm-12 col-md-6 col-lg-4 idp-ixp-col">
-			  <div class="idp-ixp-block-inner">
-			    <div class="row">
-			      <div class="col-2 col-md-2">
-			        <i class="fal fa-solid fa-chart-line" aria-hidden="true"></i>
-			      </div>
-			      <!--end-col-->
-			      <div class="col-9 col-md-10">
-			        <h4>Markets</h4>
-			      </div>
-			    </div>
-			    <!--row-->
-			    <div class="row">
-			      <div class="col-sm-12">
-			        <p class="p-idp-ixp-bolded">Financial Research Software</p>
-			        <p class="p-idp-ixp-normal">Track all markets: stocks, indices, futures, bonds, currencies, and cryptocurrencies. Analyze stocks, ETFs, mutual funds, economics and other asset classes all in one place.</p>
-			      </div>
-			      <!--end-col-->
-			    </div>
-			    <!--row-->
-
-			    <div class="idp-ixp-block-footer">
-			    <div class="row">
-			      <div class="col-6">
-			        <div class="shixidp-block-btn">
-			          <a href="#" class="sixip-btn-gold">Launch</a>
-			        </div>
-			      </div>
-			      <!--end-col-->
- 
-			    </div>
-			    <!--row-->
-			    </div><!--idp-ixp-block-footer-->
- 
-			  </div>  <!--idp-ixp-block-inner-->
-			</div> <!--end-col-->
-
-
-
- 
-    	    <div class="col-sm-12 col-md-6 col-lg-4 idp-ixp-col">
-			  <div class="idp-ixp-block-inner">
-			    <div class="row">
-			      <div class="col-2 col-md-2">
-			      <i class="fal fa-light fa-newspaper" aria-hidden="true"></i>
-			      </div>
-			      <!--end-col-->
-			      <div class="col-9 col-md-10">
-			        <h4>Magazine</h4>
-			      </div>
-			    </div>
-			    <!--row-->
-			    <div class="row">
-			      <div class="col-sm-12">
-			        <p class="p-idp-ixp-bolded">Digital Publishing Software</p>
-			        <p class="p-idp-ixp-normal">A place for investors, analysts, and companies to read, write, and connect. Enjoy unlimited access to every story across all of your devices including desktop, tablet, and mobile. </p>
-			      </div>
-			      <!--end-col-->
-			    </div>
-			    <!--row-->
-
-			    <div class="idp-ixp-block-footer">
-			    <div class="row">
-			      <div class="col-6">
-			        <div class="shixidp-block-btn">
-			          <a href="#" class="sixip-btn-gold">Launch</a>
-			        </div>
-			      </div>
-			      <!--end-col-->
- 
-			    </div>
-			    <!--row-->
-			    </div><!--idp-ixp-block-footer-->
- 
-			  </div>  <!--idp-ixp-block-inner-->
-			</div> <!--end-col-->
-   
-
-    	<div class="col-sm-12 col-md-6 col-lg-4 idp-ixp-col">
-			  <div class="idp-ixp-block-inner">
-			    <div class="row">
-			      <div class="col-2 col-md-2">
-			       <i class="fal fa-light fa-building" aria-hidden="true"></i>
-			      </div>
-			      <!--end-col-->
-			      <div class="col-9 col-md-10">
-			        <h4>Companies</h4>
-			      </div>
-			    </div>
-			    <!--row-->
-			    <div class="row">
-			      <div class="col-sm-12">
-			        <p class="p-idp-ixp-bolded">Discover Companies</p>
-			        <p class="p-idp-ixp-normal">Browse the companies featured on FTMIG.com and watch their latest events.</p>
-			      </div>
-			      <!--end-col-->
-			    </div>
-			    <!--row-->
-
-			    <div class="idp-ixp-block-footer">
-			    <div class="row">
-			      <div class="col-6">
-			        <div class="shixidp-block-btn">
-			          <a href="#" class="sixip-btn-gold">Launch</a>
-			        </div>
-			      </div>
-			      <!--end-col-->
- 
-			    </div>
-			    <!--row-->
-			    </div><!--idp-ixp-block-footer-->
- 
-			  </div>  <!--idp-ixp-block-inner-->
-			</div> <!--end-col-->
-
- 
- 
-    	    <div class="col-sm-12 col-md-6 col-lg-4 idp-ixp-col">
-			  <div class="idp-ixp-block-inner">
-			    <div class="row">
-			      <div class="col-2 col-md-2">
-			        <i class="fal fa-light fa-users" aria-hidden="true"></i>
-			      </div>
-			      <!--end-col-->
-			      <div class="col-9 col-md-10">
-			        <h4>Speakers</h4>
-			      </div>
-			    </div>
-			    <!--row-->
-			    <div class="row">
-			      <div class="col-sm-12">
-			        <p class="p-idp-ixp-bolded">Discover Speakers</p>
-			        <p class="p-idp-ixp-normal">Discover videos with your favourite speakers and thought leaders in the industry.</p>
-			      </div>
-			      <!--end-col-->
-			    </div>
-			    <!--row-->
-
-			    <div class="idp-ixp-block-footer">
-			    <div class="row">
-			      <div class="col-6">
-			        <div class="shixidp-block-btn">
-			          <a href="#" class="sixip-btn-gold">Launch</a>
-			        </div>
-			      </div>
-			      <!--end-col-->
- 
-			    </div>
-			    <!--row-->
-			    </div><!--idp-ixp-block-footer-->
- 
-			  </div>  <!--idp-ixp-block-inner-->
-			</div> <!--end-col-->
-  
-		</div><!--row--> 
-  
-	</div><!--container-->	
-</section>
-
 
      <!-- powered section end -->
 
@@ -1247,7 +954,7 @@ a.sixip-home-btn {
 		</div><!--row-->
 
 			<div class="latest-btn-holder">
-			<a href="#" class="sixip-home-btn">View All Companies <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+			<a href="https://ftmig.com/companies/" class="sixip-home-btn">View All Companies <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
             </div>
 
 	</div><!--container-->
@@ -1336,7 +1043,7 @@ img.mix-quote-logo {
 
 			<div class="col-12">   
 
-				<a href="#">
+				<a href="https://ftmig.com/company/contango-ore/">
  
 				<div class="ms-single-block">
 
@@ -1433,7 +1140,7 @@ img.mix-quote-logo {
 
 			<div class="col-12">   
 
-				<a href="#">
+				<a href="https://ftmig.com/company/canada-africa-chamber-of-business/">
  
 				<div class="ms-single-block">
 
@@ -1526,7 +1233,7 @@ img.mix-quote-logo {
     <div class="row">
 
       <div class="col-12"> 
-       <h2 class="match-wrapper-h2">FAQs about FTMIG Invest</h2> 
+       <h2 class="match-wrapper-h2">FAQs about FTMIG Raise</h2> 
       </div><!--col-->
 
       <div class="col-12"> 
@@ -1534,20 +1241,20 @@ img.mix-quote-logo {
         <div class="conference-faq-content">
  
         <div class="c-faq-content">
-          <h4>What is FTMIG Invest?</h4>
-          <p>FTMIG Invest is a suite of tools purpose built to help investors connect with companies.
+          <h4>FTMIG Raise?</h4>
+          <p>FTMIG Raise is a suite of tools purpose built to help investor relations professionals attract new investors, engage existing shareholders, and get analyst coverage.
          </p>
         </div><!--c-faq-content-->
  
         <div class="c-faq-content">
-          <h4>What is included in FTMIG Invest?</h4>
-          <p>FTMIG Invest is powered by the FTMIG Investor Discovery (ID) Platform App Store, which includes 6 unique ways to help you conduct your due diligence when researching companies to invest your capital in. </p> 
+          <h4>What is included in FTMIG Raise?</h4>
+          <p>FTMIG Raise is powered by the FTMIG Investor Experience (IX) Platform App Store, which includes 11 unique modules designed to help your company share its story. </p> 
         </div><!--c-faq-content-->
  
 
         <div class="c-faq-content">
           <h4>How do I get started?</h4>
-          <p>The best way to get started is by pressing the "Get Started" button and using the software.
+          <p>The best way to get started is by setting up a demo with an account executive here.
          </p>
         </div><!--c-faq-content-->
 

@@ -70,8 +70,8 @@ display:block!important
     </li>
     <li><a href="">Signup/Login</a></li>
     <li><a href="about.php">About</a></li>
-    <li><a href="">Invest</a></li>
-    <li><a href="">Raise</a></li>
+    <li><a href="invest.php">Invest</a></li>
+    <li><a href="raise.php">Raise</a></li>
     <li><a href="">Host</a></li>
     <li><a href="">Demo</a></li>
     <li><a href="">Pricing</a></li>
