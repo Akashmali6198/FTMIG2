@@ -73,9 +73,9 @@ display:block!important
     <li><a href="invest.php">Invest</a></li>
     <li><a href="raise.php">Raise</a></li>
     <li><a href="host.php">Host</a></li>
-    <li><a href="">Demo</a></li>
-    <li><a href="">Pricing</a></li>
-    <li><a href="">Security</a></li>
+    <li><a href="demo.php">Demo</a></li>
+    <li><a href="pricing.php">Pricing</a></li>
+    <li><a href="security.php">Security</a></li>
   </ul>
   <hr style="border:solid gray 1px">
   </div>
