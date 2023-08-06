@@ -13,8 +13,6 @@
 </head>
 
 <body>
-
-<section>
   <div class="container mt-5">
     <!-- Nav tabs -->
     <ul class="nav nav-tabs">
@@ -66,7 +64,7 @@
     </div>
   </div>
 
-</section>
+  </section
 </body>
 
 </html>
