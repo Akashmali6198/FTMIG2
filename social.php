@@ -1,3 +1,6 @@
+<?php include 'header.php' ?>
+
+
 <style>
 .banner {
   position: relative;
@@ -24,7 +27,17 @@
 </style>
 <section>
   <div class="container-fluid banner overlay">
-    <h1>FTMIG Conferences</h1>
+    <h1>Social</h1>
   </div>
 
 </section>
+<!-- youtube palylist started -->
+
+
+<!-- youtube playlist ended -->
+
+
+https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id=UCz-s7a53kY369eX8697u05A";
+
+
+<?php include 'footer.php' ?>
