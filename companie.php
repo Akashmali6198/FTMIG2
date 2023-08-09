@@ -215,7 +215,7 @@ box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
 
                    <div class="speaker-info">
 
-                                                <img src="assets/images/fission.png" class="speaker-image entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" class="speaker-image"/></noscript>
+                                                <img src="assets/images/fission2.png" class="speaker-image entered lazyloaded" data-lazy-src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" data-ll-status="loaded"><noscript><img src="https://149474761.v2.pressablecdn.com/wp-content/uploads/2022/12/Abraham-Braam-Jonker.jpeg" class="speaker-image"/></noscript>
                        <div class="speaker-border"></div>
 
                     
