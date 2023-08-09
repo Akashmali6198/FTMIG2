@@ -71,6 +71,7 @@
               <li> <a href="browse-events.php">Events</a></li>
               <li> <a href="event.php">Live</a></li>
               <li> <a href="tv.php">TV</a></li>
+              <li> <a href="social.php">Social</a></li>
               <li><a href="#">Markets</a></li>
               <li><a href="Magazine.php">Magazine</a></li>
               <li><a href="companie.php">Companies</a></li>
