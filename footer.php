@@ -97,7 +97,8 @@ display:block!important
             <li> <a href="#" style="color: aliceblue;">Live</a></li>  
             <li> <a href="tv.php" style="color: aliceblue;">TV</a></li>  
             <li> <a href="#" style="color: aliceblue;">Markets</a></li>  
-            <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li>  
+            <li> <a href="Magazine.php" style="color: aliceblue;" >Magazine</a></li> 
+            <li> <a href="twitter.php" style="color: aliceblue;" >Twitter</a></li>  
           </ul>  
         </div>  
       </div>  

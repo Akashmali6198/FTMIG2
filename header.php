@@ -73,7 +73,7 @@
               <li> <a href="tv.php">TV</a></li>
               <li> <a href="social.php">Social</a></li>
               <li><a href="#">Markets</a></li>
-              <li><a href="Magazine.php">Magazine</a></li>
+              <li><a href="upcoming_webinar.php">Upcoming Webinar</a></li>
               <li><a href="companie.php">Companies</a></li>
               <li><a href="speakers.php">Speakers</a></li>
               <li><a href="#">Chat</a></li>

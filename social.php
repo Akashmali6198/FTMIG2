@@ -76,7 +76,7 @@
             <!-- facebook -->
             <div class="col-md-6">
             <h2 class="pb-4"><img style="margin-top:-10px;" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" width=50 height=50>FACEBOOK</h2>
-            <div class="fb-page" data-href="https://www.facebook.com/FTMIGMining/" data-tabs="timeline" data-width="500" data-height="550" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/FTMIGMining/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FTMIGMining/">FTMIG Mining</a></blockquote></div>
+            <div class="fb-page" data-href="https://www.facebook.com/FTMIGMining/" data-tabs="timeline" data-width="500" data-height="550" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
             </div>
 
   
@@ -85,8 +85,41 @@
 
       </div>
 
+<!-- twitter section started -->
+
+<div class="row text-center" style="margin-top:5%">
+  <div class="col-md-12">
+    
+
+    <h1 class="pb-4">
+    <img style="margin-top:-25px;" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-twitter-png-transparent-image-and-clipart-8.png" width=80 height=80>
+    Twitter
+    <!-- <hr style="border:solid 2px #BC974F;width:30%;"> -->
+    </h1>
+
+  </div>
+</div>
+
+
+
+<div class="row text-center" style="margin-top:3%">
+  <div class="col-md-12 text-center" style="padding: 0% 20% 3% 20%;">
+
+    <a class="twitter-timeline" data-height="550" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  </div>
+</div>
+
+ <!-- twitter section ended -->
+
 
  </section>
+
+
+ 
+
+
+
 
       <!-- youtube playlist started -->
 
@@ -161,6 +194,9 @@
 
 
 </section>
+
+
+
 
 
 <!-- youtube playlist ended -->
