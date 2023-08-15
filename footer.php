@@ -4,6 +4,34 @@
 <div class="footusm-line"></div>
 <style>
 
+@media (max-width: 768px) {
+.f-usm-menu li img {
+    object-fit: contain;
+    float: unset!important;
+    width: 200px !important;
+}
+.list-unstyled {
+    text-align: center!important;
+}
+
+h4.ft {
+    text-align: center !important;
+    margin-top: 32px!important;
+    font-size: 20px !important;
+}
+.footer-logo img {
+    max-height: 70px!important;
+    margin-left:50%!important;
+}
+
+ul, ol {
+    text-align: center !important;
+}
+
+}
+/* footer media query */
+
+
 @media only screen and (max-width: 600px) {
 .f-usm-menu {
 display:block!important
@@ -104,7 +132,7 @@ display:block!important
       </div>  
       <div class="col-md-3 col-sm-6">  
         <div class="footer-pad">  
-         <h4>INVESTMENT DISCOVERY PLATFORM</h4>
+         <h4 class="ft">INVESTMENT DISCOVERY PLATFORM</h4>
          <br>
           <ul class="list-unstyled">  
             <li><a href="companies.php" style="color: aliceblue;" >Companies</a> </li>  
@@ -118,7 +146,7 @@ display:block!important
       </div>  
       <div class="col-md-3 col-sm-6">  
         <div class="footer-pad">  
-          <h4>INVESTOR EXPERIENCE PLATFORM</h4>
+          <h4  class="ft">INVESTOR EXPERIENCE PLATFORM</h4>
           <br>  
           <ul class="list-unstyled">  
             <li> <a href="Ads.php" style="color: aliceblue;">Ads</a> </li>  
@@ -130,7 +158,7 @@ display:block!important
         </div>  
       </div>  
         <div class="col-md-3">  
-            <h4>OFFICE CONTACT</h4>
+            <h4  class="ft">OFFICE CONTACT</h4>
             <br>  
             <ul class="social-network social-circle">  
              <li> <a href="#" class="icoFacebook" title="Facebook" style="color: aliceblue;">(833) 544-4456</a> </li>  

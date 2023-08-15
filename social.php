@@ -3,6 +3,40 @@
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v17.0" nonce="xWlWVaf5"></script>
 
 <style>
+@media (max-width: 768px) {
+
+/* .card-medium-img.cmi-not-car {
+    padding: 14px!important;
+} */
+.banner {
+    height: 300px !important;
+    /* padding: 4%!important; */
+
+}
+.banner h1 {
+    font-size:40x!important;
+    margin-top: 20%!important;
+}
+h1.title {
+  font-size:40px;
+}
+h2.pb-4 {
+    /* font-size: 27px; */
+  margin-top:15%;
+}
+iframe {
+    width: 100%;
+    height: 400px;
+}
+.twittersize{
+padding: 4% !important;
+}
+
+}
+  /* media query */
+
+
+
 .banner {
   position: relative;
   text-align: center;
@@ -41,6 +75,9 @@
     box-shadow: 0px 0px 3px 2px rgba(231,166,26,1);
   
 }
+.twittersize{
+padding: 0% 20% 3% 20%;
+}
 
 </style>
 <section>
@@ -58,7 +95,7 @@
   <div class="col-md-12">
 
   
-  <h1>
+  <h1 class="title">
   Social media FTMIG
   <hr style="border:solid 2px #BC974F;width:50%;">
   </h1>
@@ -103,7 +140,7 @@
 
 
 <div class="row text-center" style="margin-top:3%">
-  <div class="col-md-12 text-center" style="padding: 0% 20% 3% 20%;">
+  <div class="col-md-12 text-center twittersize">
 
     <a class="twitter-timeline" data-height="550" href="https://twitter.com/FTMInvest?ref_src=twsrc%5Etfw">Tweets by FTMInvest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

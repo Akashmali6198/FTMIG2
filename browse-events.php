@@ -1,6 +1,22 @@
 <?php include 'header.php' ?>
 
 <style>
+
+@media (max-width: 768px) {
+
+.card-medium-img.cmi-not-car {
+    padding: 14px!important;
+}
+.banner {
+    height: 300px !important;
+}
+
+  }
+  /* media query */
+
+
+
+
   /* banner style */
 
 .banner {

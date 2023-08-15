@@ -1,6 +1,31 @@
 <?php include 'header.php' ?>
 
 <style>
+/* meadi query */
+@media (max-width: 768px) {
+  #slider .carousel-item {
+    height: 40vh!important;
+}
+h1 {
+    font-size: 40px;
+}
+#slider .carousel-item .container {
+    max-width: 100% !important;
+}
+img.speaker-image {
+    height: 140px !important;
+}
+.speakerinfo {
+    
+    border: solid white 1px !important;
+
+}
+}
+/* media query */
+
+
+
+
       #slider .carousel-item {
         height: 80vh;
         background-size: cover;
