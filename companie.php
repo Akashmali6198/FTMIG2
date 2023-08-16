@@ -1,7 +1,7 @@
 <?php include 'header.php' ?>
 
 <style>
-/* meadi query */
+/* meadia query */
 @media (max-width: 768px) {
   #slider .carousel-item {
     height: 40vh!important;
