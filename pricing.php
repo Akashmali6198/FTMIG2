@@ -3,6 +3,60 @@
 
 
 <style>
+/* media query */
+@media (max-width: 768px) {
+.banner {
+height: 300px !important;
+}
+.banner h1 {
+    padding-top:25%!important;
+}
+.info-menu {
+    padding: unset!important;
+}
+section.price-hero h1 {
+    font-size: 32px!important;
+}
+section.price-hero p {
+    font-size: 18px!important;
+}
+.price-option-single {
+    margin-bottom:20px!important;
+    height: unset!important;
+}
+#match-companies h2 {
+    font-size: 30px!important;
+}
+section#pricing-total h4 {
+    font-size: 32px!important;
+}
+.ec-block-right-block {
+    position: unset!important;
+    width: 100%!important;
+    margin-top: unset!important;
+}
+#price-plans-compare h2 {
+    font-size: 40px!important;
+}
+.row.ppcr {
+    border-bottom: 1px solid #928f8f!important;
+}
+.invest-is-single .arrow-right {
+    position: absolute;
+    top: -129px!important;
+    right: -25px!important;
+    z-index: 2;
+}
+.invest-is-single h3 {
+    font-size: 28px!important;
+}
+.conference-faq h2 {
+    font-size: 39px!important;
+}
+
+}
+/* media query end */
+
   /* banner style */
 
 .banner {

@@ -1,18 +1,22 @@
 <?php include 'header.php' ?>
 <style>
 /* media query */
- @media (max-width: 768px) {
+@media (max-width: 768px) {
 .banner {
-    height: 300px !important;
-    padding: 4%!important;
-
+height: 300px !important;
+padding-left: 10%!important;
+font-size:25px;
 }
 .banner h1 {
-    font-size: 39px!important;
+    padding-top:25%!important;
+    font-size:60px!important;
 }
- }
-  /* media query */
+h1.ie-ix-title {
+    font-size: 29px!important;
+}
 
+}
+/* media query end */
 
 
 

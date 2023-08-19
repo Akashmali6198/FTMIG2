@@ -3,6 +3,48 @@
 
 
 <style>
+/* media query */
+@media (max-width: 768px) {
+.banner {
+height: 300px !important;
+padding-left: 10%!important;
+font-size:25px;
+}
+.banner h1 {
+    padding-top:25%!important;
+}
+.security-hero h1 {
+    font-size: 59px!important;
+}
+.sec-trio-single.stsfirst {
+    margin-bottom: 5%;
+}
+.sec-trio-single.stssec {
+    margin-bottom: 5%;
+}
+.sec-trio-single.ststhird {
+    margin-bottom: 5%;
+}
+.sec-block h3 {
+    font-size: 33px!important;
+}
+.security-hero p.sh-subline {
+    font-size: 20px!important;
+}
+.sec-block h4 {
+    text-align: center!important;
+    font-size: 32px!important;
+}
+.security-cryto {
+    padding: 3% 3% 3% 3%!important;
+}
+
+
+
+}
+
+/* media query end */
+
   /* banner style */
 
 .banner {

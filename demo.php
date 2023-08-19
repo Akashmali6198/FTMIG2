@@ -2,6 +2,34 @@
 <!-- above header -->
 
 <style>
+/* media query */
+@media (max-width: 768px) {
+.banner {
+height: 300px !important;
+}
+.banner h1 {
+    padding-top:25%!important;
+}
+.info-menu {
+ top:0px!important;   
+}
+ul.idxp-ul {
+padding:unset!important;
+}
+h2.gd-title {
+    font-size: 30px!important;
+}
+
+iframe {
+    height: 100%!important;
+    width: 100%!important;
+}
+
+}
+/* media query end */
+
+
+
   /* banner style */
 
 .banner {

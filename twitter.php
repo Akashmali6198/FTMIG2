@@ -1,6 +1,22 @@
 <?php include "header.php" ?>
 
 <style>
+/* media query */
+@media (max-width: 768px) {
+.banner {
+height: 300px !important;
+padding-left: 10%!important;
+font-size:25px;
+}
+.banner h1 {
+    padding-top:25%!important;
+    font-size:46px!important;
+}
+
+}
+/* media query end */
+
+
 .banner {
   position: relative;
   text-align: center;
